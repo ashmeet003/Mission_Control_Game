@@ -28,6 +28,7 @@ A 2D endless runner game built with PyGame where the player navigates a rocket t
 2. Install dependencies:
    ```bash
    pip install pygame
- 3. Run the app:
+   
+3. Run the app:
    ```bash
    python main.py
