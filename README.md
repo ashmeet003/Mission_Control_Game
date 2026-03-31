@@ -3,6 +3,7 @@
 A 2D endless runner game built with PyGame where the player navigates a rocket through obstacles.
 
 ## 📸 Screenshot
+
 ![Gameplay](Game_ScreenShot.png)
 
 
